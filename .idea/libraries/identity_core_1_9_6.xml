@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="identity-core-1.9.6">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/build/intermediates/exploded-aar/com.auth0.android/identity-core/1.9.6/res" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/exploded-aar/com.auth0.android/identity-core/1.9.6/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.auth0.android/identity-core/1.9.6/492eb54f5319c402585a2c290bd2760e27d2be7e/identity-core-1.9.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

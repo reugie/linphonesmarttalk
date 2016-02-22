@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\xml\\authenticator.xml",
+        "source": "D:\\linphone-android-studio\\res\\xml\\authenticator.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\xml\\syncadapter.xml",
+        "source": "D:\\linphone-android-studio\\res\\xml\\syncadapter.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\xml\\contacts.xml",
+        "source": "D:\\linphone-android-studio\\res\\xml\\contacts.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\xml\\account_preferences.xml",
+        "source": "D:\\linphone-android-studio\\res\\xml\\account_preferences.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "D:\\linphone-android-studio\\res\\xml\\preferences.xml"
+    }
+]

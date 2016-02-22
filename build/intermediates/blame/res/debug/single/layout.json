@@ -1,0 +1,454 @@
+[
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\com_auth0_webview_action_bar.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.auth0.android\\identity-core\\1.9.6\\res\\layout\\com_auth0_webview_action_bar.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\dialer.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\dialer.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\assistant_remote_provisioning.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\assistant_remote_provisioning.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\assistant_account_creation.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\assistant_account_creation.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\contact_control_row.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\contact_control_row.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\zrtp_dialog.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\zrtp_dialog.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\chatlist.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\chatlist.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\group_create_bubble.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\group_create_bubble.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\launch_screen.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\launch_screen.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\edit_list.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\edit_list.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\call_inactive_row.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\call_inactive_row.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\chat_bubble_incoming.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\chat_bubble_incoming.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.4.0\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\media_loading_layout.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\media_loading_layout.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\side_menu_main_account.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\side_menu_main_account.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\assistant_remote_provisioning_login.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\assistant_remote_provisioning_login.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\document_select_layout.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\document_select_layout.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\search_contact_cell.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\search_contact_cell.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\call.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\call.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\status.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\status.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\intro_layout_tablet.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\intro_layout_tablet.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\remote_provisioning.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\remote_provisioning.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\popup_audio_layout.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\popup_audio_layout.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\history.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\history.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\hidden.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\hidden.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\settings.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\assistant_login.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\assistant_login.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.4.0\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\contact_cell.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\contact_cell.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.4.0\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\side_menu_item_cell.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\side_menu_item_cell.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\player_small_notification.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\player_small_notification.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\conference_header.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\conference_header.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\hello_world.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\hello_world.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\side_menu_account_cell.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\side_menu_account_cell.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\popup_text_layout.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\popup_text_layout.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\com_auth0_activity_web_view.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.auth0.android\\identity-core\\1.9.6\\res\\layout\\com_auth0_activity_web_view.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\assistant_ec_calibration.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\assistant_ec_calibration.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\assistant_linphone_login.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\assistant_linphone_login.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\history_cell.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\history_cell.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.4.0\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.4.0\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\contact.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\contact.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\chat_bubble_outgoing.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\chat_bubble_outgoing.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\conference_paused_row.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\conference_paused_row.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\player_big_notification.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\player_big_notification.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\input_dialog.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\input_dialog.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\incall_stats.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\incall_stats.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\auth_main.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\auth_main.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\popup_count_layout.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\popup_count_layout.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\chatlist_cell.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\chatlist_cell.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.4.0\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\assistant_topbar.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\assistant_topbar.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\intro_layout.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\intro_layout.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\chat.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\chat.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\video_editor_layout.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\video_editor_layout.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\footer_test.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\footer_test.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.4.0\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\call_outgoing.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\call_outgoing.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\video.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\video.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\identicon_layout.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\identicon_layout.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\popup_image_layout.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\popup_image_layout.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\assistant.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\assistant.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\toast.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\toast.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\test_layout.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\test_layout.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\contact_edit.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\contact_edit.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\assistant_account_creation_activation.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\assistant_account_creation_activation.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\preference_list_content.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\preference_list_content.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\numpad.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\numpad.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\intro_view_layout.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\intro_view_layout.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\audio.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\audio.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\history_detail.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\history_detail.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\contact_edit_row.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\contact_edit_row.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\assistant_welcome.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\assistant_welcome.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\contacts_list.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\contacts_list.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\preference_led.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\preference_led.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.4.0\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\conf_call_control_row.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\conf_call_control_row.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.4.0\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\tutorials.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\tutorials.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\layout\\call_incoming.xml",
+        "source": "D:\\linphone-android-studio\\res\\layout\\call_incoming.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\raw-sw600dp-v13\\linphonerc_default",
+        "source": "D:\\linphone-android-studio\\res\\raw-sw600dp\\linphonerc_default"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\raw-sw600dp-v13\\linphonerc_factory",
+        "source": "D:\\linphone-android-studio\\res\\raw-sw600dp\\linphonerc_factory"
+    }
+]

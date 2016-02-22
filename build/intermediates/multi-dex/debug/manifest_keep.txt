@@ -1,0 +1,34 @@
+-keep class com.facebook.FacebookActivity { <init>(); }
+-keep class org.linphone.Auth0Activity { <init>(); }
+-keep class org.linphone.LinphoneLauncherActivity { <init>(); }
+-keep class org.linphone.LinphoneActivity { <init>(); }
+-keep class org.linphone.CallIncomingActivity { <init>(); }
+-keep class org.linphone.CallOutgoingActivity { <init>(); }
+-keep class org.linphone.CallActivity { <init>(); }
+-keep class org.linphone.assistant.AssistantActivity { <init>(); }
+-keep class org.linphone.assistant.RemoteProvisioningLoginActivity { <init>(); }
+-keep class org.linphone.assistant.RemoteProvisioningActivity { <init>(); }
+-keep class org.linphone.LinphoneService { <init>(); }
+-keep class org.linphone.sync.SyncService { <init>(); }
+-keep class org.linphone.sync.AuthenticationService { <init>(); }
+-keep class org.linphone.NetworkManager { <init>(); }
+-keep class org.linphone.BluetoothManager { <init>(); }
+-keep class org.linphone.BootReceiver { <init>(); }
+-keep class org.linphone.PhoneStateChangedReceiver { <init>(); }
+-keep class org.linphone.KeepAliveHandler { <init>(); }
+-keep class org.linphone.gcm.GCMReceiver { <init>(); }
+-keep class org.linphone.gcm.GCMService { <init>(); }
+-keep class org.linphone.tutorials.TutorialLauncherActivity { <init>(); }
+-keep class org.linphone.tutorials.TutorialBuddyStatusActivity { <init>(); }
+-keep class org.linphone.tutorials.TutorialChatRoomActivity { <init>(); }
+-keep class org.linphone.tutorials.TutorialHelloWorldActivity { <init>(); }
+-keep class org.linphone.tutorials.TutorialRegistrationActivity { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementContentProvider { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}

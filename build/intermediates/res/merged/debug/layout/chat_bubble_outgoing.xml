@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/bubble"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:orientation="horizontal">
+
+	<CheckBox
+		android:id="@+id/delete"
+		android:button="@drawable/checkbox"
+		android:contentDescription="@string/content_description_delete"
+		android:layout_marginLeft="5dp"
+		android:layout_marginRight="5dp"
+		android:layout_width="30dp"
+		android:layout_height="30dp"
+		android:adjustViewBounds="true"
+		android:layout_alignParentRight="true"
+		android:visibility="gone"/>
+<LinearLayout
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:id="@+id/lin1">
+	<ImageView
+	android:id="@+id/contact_picture"
+	android:src="@drawable/avatar"
+	android:paddingLeft="5dp"
+	android:paddingTop="5dp"
+	android:layout_width="40dp"
+	android:layout_height="40dp"
+	android:layout_alignParentLeft="true"
+	android:adjustViewBounds="true"/>
+
+	<LinearLayout
+		android:background="@drawable/resizable_chat_bubble_outgoing"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_toLeftOf="@id/delete"
+		android:orientation="horizontal"
+		android:minWidth="100dp">
+
+		<LinearLayout
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:orientation="vertical"
+			android:padding="10dp"
+			android:minWidth="100dp">
+
+			<TextView
+				android:id="@+id/contact_header"
+				style="@style/font3"
+				android:singleLine="true"
+				android:text="header"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:visibility="gone"/>
+
+			<TextView
+				android:id="@+id/message"
+				style="@style/font11"
+				android:autoLink="web"
+				android:linksClickable="true"
+				android:visibility="visible"
+				android:text="test content"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content" />
+
+			<TextView
+				android:id="@+id/time"
+				android:visibility="visible"
+				android:textSize="10sp"
+				android:text="test content"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:gravity="right"/>
+
+			<ImageView
+				android:id="@+id/image"
+				android:visibility="gone"
+				android:layout_width="150dp"
+				android:layout_height="150dp"
+				android:scaleType="centerInside"
+				android:layout_centerInParent="true"
+				/>
+
+			<RelativeLayout
+				android:id="@+id/file_transfer_layout"
+				android:visibility="gone"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content">
+
+				<ProgressBar
+					android:id="@+id/progress_bar"
+					style="@android:style/Widget.ProgressBar.Horizontal"
+					android:paddingRight="5dp"
+					android:layout_marginTop="10dp"
+					android:layout_marginBottom="10dp"
+					android:layout_width="150dp"
+					android:layout_height="5dp"/>
+
+				<Button
+					android:id="@+id/cancel_upload"
+					android:text="@string/cancel"
+					android:background="@drawable/resizable_confirm_delete_button"
+					style="@style/font15"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_below="@id/progress_bar"/>
+
+			</RelativeLayout>
+
+		</LinearLayout>
+
+		<!--<ImageView
+			android:id="@+id/status"
+			android:contentDescription="@string/content_description_message_status"
+			android:visibility="invisible"
+			android:padding="5dp"
+			android:layout_gravity="top|right"
+			android:layout_width="20dp"
+			android:layout_height="20dp"
+			android:adjustViewBounds="true" />-->
+
+
+	</LinearLayout>
+</LinearLayout>
+
+<LinearLayout
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:layout_below="@id/lin1">
+		<!--<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="test"
+			android:paddingLeft="10dp"
+			/>-->
+	<ProgressBar
+		android:id="@+id/inprogress"
+		android:paddingRight="5dp"
+		android:layout_gravity="top|right"
+		android:layout_width="20dp"
+		android:layout_height="20dp"
+		android:visibility="gone"/>
+	<!--<ImageView
+		android:id="@+id/status"
+		android:contentDescription="@string/content_description_message_status"
+		android:visibility="invisible"
+		android:padding="0dp"
+		android:layout_gravity="top|right"
+		android:layout_width="10dp"
+		android:layout_height="10dp"
+		android:adjustViewBounds="true"
+		android:src="@drawable/chat_message_delivered"/>-->
+
+
+
+</LinearLayout>
+
+</RelativeLayout>

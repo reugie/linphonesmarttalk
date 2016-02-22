@@ -1,0 +1,2054 @@
+[
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\item_background_holo_light.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tip2.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\tip2.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_selector.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\list_selector.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\photobadge.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\photobadge.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_smiles_grid.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_smiles_grid.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\doc_actions_b_s.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\doc_actions_b_s.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\phone_grey.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\phone_grey.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_arrow_drop_down.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_arrow_drop_down.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialogs_badge.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\dialogs_badge.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\intro4.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\intro4.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_clock_photo.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\msg_clock_photo.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\audiosend_play.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\audiosend_play.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bluecounter.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\bluecounter.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\system_loader2.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\system_loader2.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\photo_placeholder_in.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\photo_placeholder_in.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_storage_gallery.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_storage_gallery.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pause_g.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\pause_g.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\doc_blue_s.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\doc_blue_s.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialogs_check.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\dialogs_check.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pause_b.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\pause_b.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_out_photo.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\msg_out_photo.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_hide1_pressed.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\attach_hide1_pressed.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\check_profile_fixed.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\check_profile_fixed.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pagedown.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\pagedown.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_ab_fwd_copy.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_ab_fwd_copy.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_msg_panel_kb.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_msg_panel_kb.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spinner_states.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\spinner_states.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\floating_user_states.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\floating_user_states.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bar_selector_lock.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\bar_selector_lock.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\assign_manager.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\assign_manager.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_smiles_flower.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_smiles_flower.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\post_views_s.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\post_views_s.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_clock.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\msg_clock.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\load_big.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\load_big.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_smile_w.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_smile_w.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_broadcast.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\menu_broadcast.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tooltip.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\tooltip.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_contact.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\attach_contact.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_file_pressed.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\attach_file_pressed.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mute_blue.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\mute_blue.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tool_warmth.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\tool_warmth.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\header_timer2.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\header_timer2.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_gallery_pressed.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\attach_gallery_pressed.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_pause.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_action_pause.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_fingerprint_error.png",
+        "source": "D:\\linphone-android-studio\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_fingerprint_error.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pause_g_s.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\pause_g_s.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_symbol.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_emoji_symbol.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_tooltip_black_background.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.4.0\\res\\drawable-hdpi\\com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\doc_green.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\doc_green.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\addmember.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\addmember.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pl_pause_pressed.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\pl_pause_pressed.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\devices.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\devices.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_broadcast.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\list_broadcast.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shareblue.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\shareblue.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\navigate.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\navigate.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nophotos.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\nophotos.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_location_pressed.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\attach_location_pressed.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_newgroup.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\menu_newgroup.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_play_states.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\player_play_states.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_next_states.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\player_next_states.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_check_w.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\msg_check_w.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_bell.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_emoji_bell.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\photo_crop.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\photo_crop.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_camera.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\attach_camera.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\transparent.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\transparent.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pl_repeat.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\pl_repeat.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_ab_new.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_ab_new.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\header_shadow.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\header_shadow.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\photoborder.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\photoborder.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blur_radial_active.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\blur_radial_active.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location_panel.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\location_panel.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_ic_googleplayservices.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\media_doc_pause.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\media_doc_pause.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_out.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\msg_out.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_smiles_backspace_active.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_smiles_backspace_active.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stickers_back_all.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\stickers_back_all.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_ab_fwd_delete.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_ab_fwd_delete.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lock_open.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\lock_open.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cats.jpg",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\cats.jpg"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_invite.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\menu_invite.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bar_selector_blue.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\bar_selector_blue.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pause_w2_pressed.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\pause_w2_pressed.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_smiles_car.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_smiles_car.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_in.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\msg_in.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_full_open_on_phone.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nocover.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\nocover.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\photoview_placeholder.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\photoview_placeholder.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\docpause_b_s.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\docpause_b_s.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_help.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\menu_help.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_smiles_car_active.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_smiles_car_active.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\floating3_profile_pressed.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\floating3_profile_pressed.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_directory.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_directory.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_flower.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_emoji_flower.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\switch_to_on1.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\switch_to_on1.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\floating_states.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\floating_states.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\intro7.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\intro7.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cancel_g_pressed.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\cancel_g_pressed.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_pause_states.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\player_pause_states.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_storage.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_storage.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\regbtn2.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\regbtn2.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mic_pressed.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\mic_pressed.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mute_grey.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\mute_grey.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\docpause_g.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\docpause_g.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pause_w.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\pause_w.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ab_progress.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ab_progress.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\regbtn_states.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\regbtn_states.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cancel_big.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\cancel_big.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_ab_back.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_ab_back.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cancel_b_pressed.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\cancel_b_pressed.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pl_shuffle.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\pl_shuffle.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stickers_back_left.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\stickers_back_left.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wall_selection.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\wall_selection.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bottom_shadow.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\bottom_shadow.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_in_photo_selected.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\msg_in_photo_selected.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lock_close.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\lock_close.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_play.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\video_play.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stickers_back_center.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\stickers_back_center.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\broadcast3.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\broadcast3.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_tooltip_blue_background.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.4.0\\res\\drawable-hdpi\\com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_close_white.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_close_white.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pause_bb.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\pause_bb.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rec.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\rec.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_file.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\attach_file.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_create.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_create.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bar_selector_orange.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\bar_selector_orange.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bot_list.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\bot_list.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\phototime.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\phototime.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_clock2.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\msg_clock2.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\media_doc_green.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\media_doc_green.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\switch_thumb.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\switch_thumb.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\doc_actions_b.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\doc_actions_b.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\download_g_pressed.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\download_g_pressed.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_animation.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\loading_animation.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_down.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\search_down.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\download_b_s.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\download_b_s.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\channelintro.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\channelintro.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bot_keyboard_button_pressed.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\bot_keyboard_button_pressed.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\intro3.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\intro3.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_smiles_recent_active.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_smiles_recent_active.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\managers.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\managers.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_tooltip_blue_xout.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.4.0\\res\\drawable-hdpi\\com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\photocheck.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\photocheck.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_ab_attach.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_ab_attach.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\intro1.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\intro1.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\check_blue.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\check_blue.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blur_linear.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\blur_linear.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_play.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_action_play.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\floating.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\floating.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\messenger_bubble_large_blue.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.4.0\\res\\drawable-hdpi\\messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\system_black.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\system_black.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tool_contrast.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\tool_contrast.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\floating_m.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\floating_m.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\docload_b_s.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\docload_b_s.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bar_selector_red.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\bar_selector_red.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\intro5.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\intro5.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_in_photo.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\msg_in_photo.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\media_doc_red.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\media_doc_red.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_check.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\msg_check.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tool_enhance.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\tool_enhance.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_gif.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\search_gif.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\media_doc_blue.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\media_doc_blue.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\floating_camera.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\floating_camera.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\switch_track.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\switch_track.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pause_b_s.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\pause_b_s.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\passcode_delete.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\passcode_delete.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_out_photo_selected.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\msg_out_photo_selected.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_file_states.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\attach_file_states.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\photocancel.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\photocancel.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_smiles_bell_active.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_smiles_bell_active.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_video.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_video.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_w.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\play_w.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_ab_search.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_ab_search.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_ab_done_gray.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_ab_done_gray.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btnshadow.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\btnshadow.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_selector_background_transition_holo_light.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\photopause.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\photopause.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tool_highlights.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\tool_highlights.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blur_linear_active.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\blur_linear_active.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\miniplayer_play.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\miniplayer_play.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popup_fixed.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\popup_fixed.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_audio_pressed.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\attach_audio_pressed.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_send.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_send.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tool_shadows.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\tool_shadows.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_cancel.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\edit_cancel.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_audio.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\attach_audio.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\doccancel_g.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\doccancel_g.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playvideo.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\playvideo.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_settings.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\menu_settings.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circle.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\circle.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\myloc_on.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\myloc_on.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_tooltip_black_topnub.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.4.0\\res\\drawable-hdpi\\com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo_avatar.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\logo_avatar.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_prev_states.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\player_prev_states.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shareblack.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\shareblack.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blur_radial.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\blur_radial.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_video.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\attach_video.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\post_views.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\post_views.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\floating_message.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\floating_message.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stickers_back_right.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\stickers_back_right.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\slidearrow.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\slidearrow.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shareblue_pressed.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\shareblue_pressed.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\videotrimmer.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\videotrimmer.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_hide_states.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\attach_hide_states.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_smiles_sticker_active.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_smiles_sticker_active.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pl_play_pressed.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\pl_play_pressed.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lock_white.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_lock_white.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nocover_big.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\nocover_big.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\messenger_bubble_small_blue.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.4.0\\res\\drawable-hdpi\\messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\download_g.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\download_g.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\phone_change.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\phone_change.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bot_keyboard_states.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\bot_keyboard_states.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialogs_warning.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\dialogs_warning.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profile_list.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\profile_list.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pl_next.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\pl_next.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialogs_badge2.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\dialogs_badge2.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_longpressed_holo_light.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\list_longpressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_send2.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\attach_send2.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\messenger_button_send_round_shadow.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.4.0\\res\\drawable-hdpi\\messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\burn.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\burn.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_secret.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\list_secret.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bar_selector_grey.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\bar_selector_grey.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\post_views_w.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\post_views_w.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_web.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\search_web.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\broadcast_w.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\broadcast_w.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_backspace.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_emoji_backspace.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\messenger_bubble_small_white.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.4.0\\res\\drawable-hdpi\\messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\place_x.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\place_x.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bar_selector_yellow.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\bar_selector_yellow.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_circle.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\list_circle.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_tooltip_blue_topnub.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.4.0\\res\\drawable-hdpi\\com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bar_selector_green.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\bar_selector_green.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_in_selected.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\msg_in_selected.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_cursor_mtrl_alpha.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_send_location_down.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\btn_send_location_down.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialogs_halfcheck.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\dialogs_halfcheck.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bot_keyboard_button.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\bot_keyboard_button.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\floating_pressed.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\floating_pressed.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\intro6.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\intro6.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_halfcheck_w.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\msg_halfcheck_w.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location_b.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\location_b.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pl_repeat_active.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\pl_repeat_active.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_tooltip_blue_bottomnub.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.4.0\\res\\drawable-hdpi\\com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\passcode_logo.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\passcode_logo.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_ab_doc.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_ab_doc.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_car.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_emoji_car.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_halfcheck.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\msg_halfcheck.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tool_saturation.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\tool_saturation.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mic.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\mic.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\doccancel_b_s.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\doccancel_b_s.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\messenger_bubble_large_white.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.4.0\\res\\drawable-hdpi\\messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_video_states.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\attach_video_states.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_selector_white.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\list_selector_white.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_dark_activated.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\search_dark_activated.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tip4.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\tip4.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nocover_small.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\nocover_small.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_gallery.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\attach_gallery.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pause_g_pressed.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\pause_g_pressed.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sharedmedia.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\sharedmedia.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\doc_actions_g.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\doc_actions_g.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_camera_states.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\attach_camera_states.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_shadow.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\menu_shadow.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_ab_reply.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_ab_reply.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_audio_states.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\attach_audio_states.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lock_header.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_lock_header.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_send1_pressed.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\attach_send1_pressed.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\player.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bar_selector_mode.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\bar_selector_mode.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circle_big.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\circle_big.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bar_selector_pink.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\bar_selector_pink.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbig.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\checkbig.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cancel_g.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\cancel_g.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_big.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\play_big.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pl_play.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\pl_play.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_w_pressed.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\play_w_pressed.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_fp_40px.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_fp_40px.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pl_previous_pressed.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\pl_previous_pressed.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bar_selector_violet.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\bar_selector_violet.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\download_b_pressed.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\download_b_pressed.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\photoload.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\photoload.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_focused_holo.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\numberpicker_selection_divider.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\numberpicker_selection_divider.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\check_list.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\check_list.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_smiles_gif.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_smiles_gif.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_done.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_done.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\download_g_s.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\download_g_s.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\photo_text.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\photo_text.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bar_selector_style.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\bar_selector_style.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\broadcast2.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\broadcast2.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pl_pause.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\pl_pause.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\greydivider_top.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\greydivider_top.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bar_selector_white.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\bar_selector_white.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_pressed_holo_light.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\intro2.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\intro2.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_ab_other.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_ab_other.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_clock2_s.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\msg_clock2_s.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pin.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\pin.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bot_keyboard2.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\bot_keyboard2.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\regbtn2_pressed.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\regbtn2_pressed.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\download_bb.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\download_bb.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bot_info.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\bot_info.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_up.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\search_up.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_group.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\list_group.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\docload_b.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\docload_b.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_tooltip_black_bottomnub.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.4.0\\res\\drawable-hdpi\\com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_contact_pressed.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\attach_contact_pressed.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bar_selector_picker.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\bar_selector_picker.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_ab_attach3.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_ab_attach3.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_light.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\search_light.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_smiles_smile.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_smiles_smile.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\header_shadow_reverse.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\header_shadow_reverse.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\layer_shadow.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\layer_shadow.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pl_shuffle_active.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\pl_shuffle_active.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_msg_panel_smiles.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_msg_panel_smiles.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\passcode_check.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\passcode_check.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_button_icon.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.4.0\\res\\drawable-hdpi\\com_facebook_button_icon.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tip1.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\tip1.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\share.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\share.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\broadcast4.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\broadcast4.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blur_off.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\blur_off.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\miniplayer_pause.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\miniplayer_pause.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location_send_button_states.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\location_send_button_states.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\selectphoto_large.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\selectphoto_large.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\header_timer.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\header_timer.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\docload_g.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\docload_g.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_button_send_icon.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.4.0\\res\\drawable-hdpi\\com_facebook_button_send_icon.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\link.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\link.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_smiles_recent.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_smiles_recent.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_recent.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_emoji_recent.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\greydivider.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\greydivider.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\notification.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_warning.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\msg_warning.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\system_blue.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\system_blue.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tool_blur.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\tool_blur.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_smiles_grid_active.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_smiles_grid_active.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\doccancel_b.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\doccancel_b.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pause_w_pressed.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\pause_w_pressed.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pl_back.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\pl_back.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\photo_tools.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\photo_tools.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\round_grey.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\round_grey.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_tooltip_black_xout.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.4.0\\res\\drawable-hdpi\\com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_contact_states.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\attach_contact_states.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_smiles_flower_active.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_smiles_flower_active.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mute_fixed.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\mute_fixed.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background_hd.jpg",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\background_hd.jpg"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_w2_pressed.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\play_w2_pressed.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blockpanel.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\blockpanel.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\addcontact_green.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\addcontact_green.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\delete_reply.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\delete_reply.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_light_activated.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\search_light_activated.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_share.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\search_share.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_send_location_up.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\btn_send_location_up.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pl_next_pressed.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\pl_next_pressed.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\floating3_profile.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\floating3_profile.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\compose_panel.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\compose_panel.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\photo_text2.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\photo_text2.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tip3.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\tip3.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pl_previous.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\pl_previous.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_smiles_smile_active.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_smiles_smile_active.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shareblack_pressed.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\shareblack_pressed.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_previous.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_action_previous.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\media_doc_load.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\media_doc_load.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\videolapse.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\videolapse.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_video_pressed.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\attach_video_pressed.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_w2.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\play_w2.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_smiles_backspace.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_smiles_backspace.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_secret.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\menu_secret.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\system_loader1.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\system_loader1.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\photogif.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\photogif.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cancel_g_s.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\cancel_g_s.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blur_off_active.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\blur_off_active.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_location.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\attach_location.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\check_profile.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\check_profile.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bot_keyboard.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\bot_keyboard.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_external_storage.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_external_storage.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_smiles_sticker.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_smiles_sticker.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location_g.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\location_g.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_smiles_bell.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_smiles_bell.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\audiosend_pause.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\audiosend_pause.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tool_brightness.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\tool_brightness.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_selector_disabled_holo_light.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_reply_icon.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_reply_icon.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\floating3_profile_m.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\floating3_profile_m.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_hide1.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\attach_hide1.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_sticker.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_emoji_sticker.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\post_viewsg.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\post_viewsg.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plus.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\plus.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_send1.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\attach_send1.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pause_w2.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\pause_w2.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_send_states.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\attach_send_states.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bar_selector_cyan.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\bar_selector_cyan.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_dark.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\search_dark.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pl_repeat1_active.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\pl_repeat1_active.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_ab_fwd_forward.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_ab_fwd_forward.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bar_selector_audio.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\bar_selector_audio.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\boxshadow.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\boxshadow.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_doneblue.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\edit_doneblue.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\newmsg_divider.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\newmsg_divider.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_text.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\edit_text.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tool_details.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\tool_details.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\publish_active.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\publish_active.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stickers_back_arrow.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\stickers_back_arrow.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\reply.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\reply.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tool_vignette.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\tool_vignette.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circle1.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\circle1.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cancel_b_s.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\cancel_b_s.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\photo_w.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\photo_w.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\floating_pencil.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\floating_pencil.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\foursquare.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\foursquare.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_next.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_action_next.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pause_b_pressed.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\pause_b_pressed.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_smile.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_emoji_smile.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tool_grain.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\tool_grain.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_location_states.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\attach_location_states.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_gallery_background.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_gallery_background.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_settings.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_settings.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\forward_blue.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\forward_blue.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\media_doc_yellow.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\media_doc_yellow.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\switch_to_on2.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\switch_to_on2.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_gallery_states.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\attach_gallery_states.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_hide2.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\attach_hide2.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\docpause_b.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\docpause_b.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\igvideo.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\igvideo.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\redcircle.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\redcircle.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\round_check2.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\round_check2.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_ab_back_grey.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_ab_back_grey.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cancel_b.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\cancel_b.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\addcontact_blue.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\addcontact_blue.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\miniplayer_close.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\miniplayer_close.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_keyboard_w.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\ic_keyboard_w.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_out_selected.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\msg_out_selected.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\publish.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\publish.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bar_selector.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\bar_selector.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_pin.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\map_pin.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_carret.xml",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\search_carret.xml"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\doc_blue.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\doc_blue.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\download_b.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\download_b.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_contacts.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\menu_contacts.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_button_like_icon_selected.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.4.0\\res\\drawable-hdpi\\com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_camera_pressed.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\attach_camera_pressed.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\greydivider_bottom.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\greydivider_bottom.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_close.png",
+        "source": "D:\\linphone-android-studio\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.4.0\\res\\drawable-hdpi\\com_facebook_close.png"
+    },
+    {
+        "merged": "D:\\linphone-android-studio\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sheet_shadow.9.png",
+        "source": "D:\\linphone-android-studio\\res\\drawable-hdpi\\sheet_shadow.9.png"
+    }
+]

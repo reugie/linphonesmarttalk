@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/hernan/Projects/Auth0/Lock-Facebook.Android/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="com_auth0_facebook_cancelled_error_message">You need to authorize the application</string>
+    <string name="com_auth0_facebook_error_title">There was an error contacting Facebook</string>
+</resources>
